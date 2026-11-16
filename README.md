@@ -1,3 +1,7 @@
+[![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/adzinsyariif/bring-the-humans-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+[![reward](https://make.fun/badge/bring-the-humans-01/adzinsyariif/bring-the-humans-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+
 # Bring the humans — a make.fun ad page
 
 An entry in the **“Bring the humans”** bounty on [make.fun](https://make.fun/bounty/bring-the-humans-01),
